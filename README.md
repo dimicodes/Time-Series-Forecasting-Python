@@ -34,7 +34,7 @@ To run the forecasting models and evaluate their performance:
 ## Data
 The dataset used in this project contains daily transaction data spanning several years. Each entry records the date and the number of transactions that occurred on that date.
 
-## Preview
+## Preview (Prophet Model Transaction Volume 180-Day Prediction)
 
 ![image](https://github.com/dimicodes/Time-Series-Forecasting-Python/assets/45632694/27065e64-445a-4ac9-b3f9-36323ddc4287)
 
